@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: It's a very good distributed version control system that allows for collaboration and saving work safely. There are other benefits as well. 
