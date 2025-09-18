@@ -6,5 +6,5 @@ Q2: What field could data science be applied to? Give an Example.
 Answer: Data science could be applied to Journalism in order to create meaningful representations of data that inform people of what is going on around the world.
 
 
-Q4: What are you looking forward to this semester?
-Answer: I'm looking forward to learning what Data Science techniques are most highly regarded and what I can create with them. 
+Q3: What is the difference between Merging and Rebasing?
+Answer: rebasing modifies history making it seem like it was all done on one branch according to Google at least. 
