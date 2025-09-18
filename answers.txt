@@ -8,3 +8,7 @@ Answer: Data science could be applied to Journalism in order to create meaningfu
 
 Q3: What is the difference between Merging and Rebasing?
 Answer: rebasing modifies history making it seem like it was all done on one branch according to Google at least. 
+
+Q4: What are you looking forward to this semester?
+Answer: Learning new Data Science techniques and practices and seeing how I can apply them myself to create something interesting. The group project seems like it will be a good opportunity to do this. 
+
